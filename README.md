@@ -1,6 +1,8 @@
 Fragile Panic GBA conversion
 By Bill Adams
 
+<!--&#9744;&#9745;&#9746;-->
+
 Description
 a gba conversion of my game fragile panic.  
 You can play it online at https://jryvn.itch.io/fragile-panic
