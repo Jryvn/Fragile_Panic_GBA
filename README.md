@@ -8,42 +8,43 @@ You can play it online at https://jryvn.itch.io/fragile-panic
 
 Roadmap
 =======
-sprite assets
-  4-slot box
-  6-slot box
-  clear box
-  red plate
-  orange tumblers
-  yellow gravy boat
-  green tray
-  blue silverware
-  purple wineglass
-  player normal
-  player holding plates up
-  belt
-  background 1
-  background 2
-  logo
+<ul>
+<li>sprite assets</li><ul>
+  <li>4-slot box</li>
+  <li>6-slot box</li>
+  <li>clear box</li>
+  <li>red plate</li>
+  <li>orange tumblers</li>
+  <li>yellow gravy boat</li>
+  <li>green tray</li>
+  <li>blue silverware</li>
+  <li>purple wineglass</li>
+  <li>player normal</li>
+  <li>player holding plates up</li>
+  <li>belt</li>
+  <li>background 1</li>
+  <li>background 2</li>
+  <li>logo</li></ul>
 
-audio assets
-  plate clack
-  plate break
-  player movement
-  box clear
-  background music
+<li>audio assets</li><ul>
+  <li>plate clack</li>
+  <li>plate break</li>
+  <li>player movement</li>
+  <li>box clear</li>
+  <li>background music</li></ul>
 
-belt class
-box class
-player class
-plate class
+<li>belt class</li>
+<li>box class</li>
+<li>player class</li>
+<li>plate class</li>
 
-scenes
-  main menu
-  how to play
-  trainee level
-  supervisor level
-  high score
-  achievements
-  options
-  credits
-
+<li>scenes</li><ul>
+  <li>main menu</li>
+  <li>how to play</li>
+  <li>trainee level</li>
+  <li>supervisor level</li>
+  <li>high score</li>
+  <li>achievements</li>
+  <li>options</li>
+  <li>credits</li></ul>
+</ul>
